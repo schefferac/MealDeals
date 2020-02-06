@@ -1,0 +1,27 @@
+Title,ID,Price Per Serving,Cheap,Health Score,Likes,Ready Time,Vegetarian,Vegan,Gluten Free,Dish Types
+Strawberry Banana Oatmeal Smoothie,1,33.9,FALSE,14,26166,45,TRUE,FALSE,TRUE,lunch
+Simple Spaghetti Fra Diavolo,2,142.13,FALSE,35,127553,45,TRUE,TRUE,FALSE,dinner
+Baked Falafel Burgers,3,176.2,FALSE,79,1,40,TRUE,TRUE,FALSE,dinner
+BLT Sandwich,4,296.78,FALSE,15,63,45,FALSE,FALSE,FALSE,lunch
+Grilled Chicken Sandwich with Cheese,5,212.38,FALSE,14,274,20,FALSE,FALSE,FALSE,lunch
+5-Ingredient Pizza Bagel Bites,6,79.73,FALSE,2,1,15,FALSE,FALSE,FALSE,dinner
+Easy Steak and Peppers,7,357.64,FALSE,32,4687,30,FALSE,FALSE,TRUE,dinner
+Open chicken Caesar sandwich,8,488.74,FALSE,100,151,20,FALSE,FALSE,FALSE,lunch
+1-Bowl Chocolate Chip Banana Bread Waffles,9,54.28,FALSE,12,3695,30,FALSE,FALSE,TRUE,breakfast/brunch
+Blueberry Buttermilk Pancakes,10,105.5,FALSE,11,672,25,TRUE,FALSE,FALSE,breakfast/brunch
+Quinoa Salad with Avocado and Tomatoes,11,159.69,FALSE,97,607,15,TRUE,TRUE,TRUE,lunch
+Steak Bomb Sandwich,12,597.08,FALSE,30,56264,45,FALSE,FALSE,FALSE,dinner
+Spaghetti Squash and Chard Sauté,13,186.36,FALSE,52,1298,100,FALSE,FALSE,TRUE,dinner
+Italian Sausage Tortellini Soup,14,264.31,FALSE,28,82928,40,FALSE,FALSE,FALSE,dinner
+Bucatini with Butter-Roasted Tomato Sauce,15,157.95,FALSE,19,25468,45,FALSE,FALSE,FALSE,lunch
+15-Minute Miso Soup with Greens and Tofu,16,168.26,FALSE,58,2831,15,TRUE,TRUE,TRUE,dinner
+White Turkey Chili,17,285.18,FALSE,28,7299,90,FALSE,FALSE,FALSE,dinner
+Chicken Fajita Stuffed Peppers,18,159.79,FALSE,40,50992,40,FALSE,FALSE,TRUE,dinner
+creamy parmesan garlic gnocchi,19,135.56,FALSE,100,252,20,FALSE,FALSE,FALSE,dinner
+Baked Sriracha Butternut Squash Fries,20,44.29,FALSE,70,8695,55,TRUE,TRUE,TRUE,lunch
+Buffalo Cheese Fries,21,96.86,FALSE,1,19649,45,TRUE,FALSE,TRUE,lunch
+Fried Dill Pickles,22,88.78,FALSE,9,1,25,TRUE,FALSE,FALSE,lunch
+Jerk Shrimp Tacos with Pineapple Salsa,23,382.24,FALSE,22,38967,45,FALSE,FALSE,TRUE,lunch
+Lemon Garlic Grilled Shrimp,24,122.07,FALSE,2,5872,48,FALSE,FALSE,TRUE,dinner
+Harvest Kale Salad with Roasted Winter Squash,25,239.44,FALSE,100,473,50,TRUE,TRUE,TRUE,lunch
+Cabbage Salad with Peanuts,26,115.09,FALSE,93,411,15,TRUE,TRUE,TRUE,breakfast
